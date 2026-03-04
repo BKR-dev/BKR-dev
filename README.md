@@ -25,7 +25,7 @@ tools       Neovim · Podman · cert-manager
 
 - building on self-hosted k3s clusters in Hetzner
 - Go + Templ + HTMX as a full stack
-- running [Synkraft]([https://github.com/BKR-dev](https://synkraft.co)) — brand & digital systems
+- running [Synkraft](https://synkraft.co)) — brand & digital systems
 - hosting [UnionStack](https://unionstack.dev) - hosting & innovating
 
 ---
