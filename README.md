@@ -1,35 +1,38 @@
 ```
-██████╗ ██╗  ██╗██████╗
-██╔══██╗██║ ██╔╝██╔══██╗
-██████╔╝█████╔╝ ██████╔╝
-██╔══██╗██╔═██╗ ██╔══██╗
-██████╔╝██║  ██╗██║  ██║
-╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+██████╗ ██╗  ██╗██████╗    │  severe code.
+██╔══██╗██║ ██╔╝██╔══██╗   │  heavy deploys.
+██████╔╝█████╔╝ ██████╔╝   │
+██╔══██╗██╔═██╗ ██╔══██╗   │  hamburg · de
+██████╔╝██║  ██╗██║  ██║   │  k3s · hetzner · go
+╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝   │
 ```
 
-**severe code. heavy deployments.**
-Hamburg, Germany
-
----
-
-### stack
-
 ```
-lang        Go · TypeScript · bash
-frontend    HTMX · Templ · Tailwind
-infra       Kubernetes · k3s · Hetzner · Traefik
-tools       Neovim · Podman · cert-manager
+╭─ stack ──────────────────────────────────────────────
+│  lang       go · typescript · bash
+│  frontend   htmx · templ · tailwind
+│  infra      kubernetes · k3s · hetzner · traefik
+│  tools      neovim · podman · cert-manager
+╰──────────────────────────────────────────────────────
 ```
 
 ### currently
 
-- building on self-hosted k3s clusters in Hetzner
-- Go + Templ + HTMX as a full stack
-- running [Synkraft](https://synkraft.co) — brand & digital systems
-- hosting [UnionStack](https://unionstack.dev) - hosting & innovating
+- shipping boring tech that doesn't page at 3am
+- **go + templ + htmx** end-to-end — one language, one mental model
+- small k3s clusters on hetzner — real workloads, sane bills
+- running [**synkraft.co**](https://synkraft.co) — brand & digital systems
+- hosting [**unionstack.dev**](https://unionstack.dev) — hosting & innovation
 
 ---
 
 <div align="center">
-<sub><a href="https://unionstack.dev">unionstack.dev</a> · <a href="https://synkraft.co">synkraft.co</a></sub>
+<sub>
+<code>~ </code>
+<a href="https://unionstack.dev">unionstack.dev</a>
+<code> · </code>
+<a href="https://synkraft.co">synkraft.co</a>
+<code> · </code>
+hamburg, de
+</sub>
 </div>
