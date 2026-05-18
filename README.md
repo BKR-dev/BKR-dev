@@ -24,15 +24,18 @@ bkr:
 - running [**synkraft.co**](https://synkraft.co) — brand & digital systems
 - hosting [**unionstack.dev**](https://unionstack.dev) — hosting & innovation
 
-### shipping/
+### consulting/
+
+how an engagement actually runs — no decks, no discovery calls billed by the hour.
 
 ```mermaid
 flowchart LR
-  dev[laptop] --> img[podman build]
-  img --> reg[(registry)]
-  reg --> k3s[k3s · hetzner]
-  k3s --> edge[traefik]
-  edge --> www((www))
+  a[intake] --> b[scope & quote]
+  b --> c{advisory<br/>or build?}
+  c -->|advisory| d[audit + written brief]
+  c -->|build| e[design · build · ship]
+  d --> f((retainer))
+  e --> f
 ```
 
 ### public/
